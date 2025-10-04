@@ -6,4 +6,20 @@ body {
 
 .header {
     background-color: #1F2937;
+    padding: 1em 8em;
+    height: 3em;
+}
+
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
 }
