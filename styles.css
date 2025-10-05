@@ -45,3 +45,12 @@ h1 {
     gap: 4em;
 }
 
+.hero-image {
+    width: 500px;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-evenly;
+}
+
