@@ -47,10 +47,14 @@ h1 {
 
 .hero-image {
     width: 500px;
+    flex-basis: 0;
 }
 
 .hero {
+    height: 30em;
     display: flex;
     justify-content: space-evenly;
+    align-items: flex-start;
+    padding-top: 5em;
 }
 
