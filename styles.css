@@ -4,6 +4,16 @@ body {
     padding: 0;
 }
 
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
 .header {
     background-color: #1F2937;
     padding: 1em 8em;
@@ -23,14 +33,4 @@ body {
 .header-links {
     display:flex;
     gap: 4em;
-}
-
-li {
-    list-style: none;
-}
-
-a {
-    text-decoration: none;
-    color: #E5E7EB;
-    font-size: 18px;
 }
