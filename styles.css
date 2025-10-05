@@ -14,8 +14,15 @@ a {
     font-size: 18px;
 }
 
-.header {
+h1 {
+    margin: 0;
+}
+
+.header, .hero{
     background-color: #1F2937;
+}
+
+.header {
     padding: 1em 8em;
     height: 3em;
     display: flex;
