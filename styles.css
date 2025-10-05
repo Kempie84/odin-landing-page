@@ -8,11 +8,16 @@ body {
     background-color: #1F2937;
     padding: 1em 8em;
     height: 3em;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
 }
 
 .logo {
     color: #F9FAF8;
     font-size: 24px;
+    font-weight: bold;
+    margin-right: auto;
 }
 
 li {
