@@ -16,6 +16,9 @@ a {
 
 h1 {
     margin: 0;
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
 }
 
 .header, .hero{
@@ -41,3 +44,4 @@ h1 {
     display:flex;
     gap: 4em;
 }
+
