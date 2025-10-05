@@ -23,6 +23,18 @@ h1 {
     color: #F9FAF8;
 }
 
+button {
+    font-size: 18px;
+    font-weight: 700;
+    color:#F9FAF8;
+    background-color: #3882F6;
+    border-radius: 10px;
+    width: 6em;
+    height: 2em;
+    border: 0;
+    box-shadow: 0;
+}
+
 .header, .hero{
     background-color: #1F2937;
 }
