@@ -72,3 +72,8 @@ button {
     padding-top: 5em;
 }
 
+.item img {
+    width: 200px;
+    border: 5px solid #3882F6;
+    border-radius: 1em;
+}
