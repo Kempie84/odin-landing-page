@@ -32,6 +32,12 @@ h2 {
     margin: 3em;
 }
 
+h3 {
+    color:#F9FAF8;
+    font-size: 32px;
+    font-weight: 400;
+}
+
 button {
     font-size: 18px;
     font-weight: 700;
@@ -127,5 +133,27 @@ button {
     color: #1F2937;
     align-self: flex-end;
     margin-right: 300px;
+}
+
+.signup-section {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup-box {
+    background-color: #3882F6;
+    width: 800px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    border-radius: 1em;
+}
+
+.signup-box button {
+    border: solid 2px #E5E7EB;
 }
 
