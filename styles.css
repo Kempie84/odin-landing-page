@@ -50,7 +50,7 @@ button {
     box-shadow: 0;
 }
 
-.header, .hero{
+.header, .hero, .footer{
     background-color: #1F2937;
 }
 
@@ -155,5 +155,12 @@ button {
 
 .signup-box button {
     border: solid 2px #E5E7EB;
+}
+
+.footer {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
